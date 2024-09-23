@@ -21,4 +21,5 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 45
+// config.h
 #define USB_POLLING_INTERVAL_MS 1
